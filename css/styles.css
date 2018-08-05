@@ -1,32 +1,31 @@
-h1{
-  color: blue;
-  text-align: left;
+section{
+  align: center;
+  padding: 10px;
+}
+.main-heading{
+  color: #191970;
+  text-align: center;
 }
 .img1{
-  width: 50%;
+  width: 98%;
   height: auto;
-  float: left;
-}
-.text-right{
-  width: 50%;
-  height:auto;
-  float: left;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-h2{
-  color:purple;
-  text-align: right;
+  padding: 10px;
 }
 .img2{
-  width: 40%;
+  width: 98%;
   height: auto;
-  float: right;
+  float: centre;
+  padding: 10px;
 }
-.text-left{
-  width:50%;
-  height:0px;
-  float: right;
-  margin-left: 10px;
-  margin-right: 10px;
+.img3{
+  width: 98%;
+  height: auto;
+  float: centre;
+  padding: 10px;
+}
+.header{
+  text-align: center;
+}
+.description{
+  text-align: center;
 }
