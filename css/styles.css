@@ -1,16 +1,32 @@
 h1{
   color: blue;
-  text-align: center;
+  text-align: left;
 }
 .img1{
   width: 50%;
   height: auto;
-  float: right;
+  float: left;
 }
 .text-right{
-  width: 50%
+  width: 50%;
   height:auto;
   float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h2{
+  color:purple;
+  text-align: right;
+}
+.img2{
+  width: 40%;
+  height: auto;
+  float: right;
+}
+.text-left{
+  width:50%;
+  height:0px;
+  float: right;
   margin-left: 10px;
   margin-right: 10px;
 }
