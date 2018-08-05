@@ -1,0 +1,16 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+.img1{
+  width: 50%;
+  height: auto;
+  float: right;
+}
+.text-right{
+  width: 50%
+  height:auto;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
